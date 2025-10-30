@@ -95,5 +95,3 @@ This project demonstrates the complete DevOps workflow:
 -Deployment with Nomad
 
 -Monitoring and observability using Grafana Loki
-
-💡 
