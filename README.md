@@ -3,7 +3,7 @@
 
 
 **Name:** Stellamaurice Ogechukwu Obiakor  
-**Date:** October 2025  
+**Date:** 30th October 2025  
 
 ## 📘 Project Overview
 This project simulates a mini DevOps workflow using open-source tools including **Linux, GitHub, Docker, CI/CD, Nomad, and Grafana Loki**.  
