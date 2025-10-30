@@ -1,0 +1,14 @@
+# Loki Setup Notes
+
+1. Pulled Loki Docker image:
+   docker pull grafana/loki
+
+2. Started Loki container:
+   docker run -d --name=loki -p 3100:3100 grafana/loki
+
+3. Verified Loki is running:
+   docker ps
+
+4. Checked logs:
+   docker logs loki
+Grafana Loki setup instructions
